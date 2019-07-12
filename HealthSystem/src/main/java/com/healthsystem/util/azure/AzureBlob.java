@@ -38,7 +38,7 @@ public class AzureBlob {
     private static CloudBlobClient createClient() {
         CloudBlobClient client = null;
         try {
-            String connectionString = String.format("DefaultEndpointsProtocol=https;AccountName=healthsystem;AccountKey=usdFj4TFYYdD/IF+FVku8PBheech/xElDKf/lY5+SoHE1cApQCEz5GVZ1HaPKuyatu3hvo9+iVSl5JZB7aAF9w==;EndpointSuffix=core.windows.net");
+            String connectionString = String.format("");
             CloudStorageAccount account = CloudStorageAccount.parse(connectionString);
             client = account.createCloudBlobClient();
         } catch (Exception e) {
