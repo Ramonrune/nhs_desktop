@@ -55,7 +55,7 @@ public class HomePanel extends javax.swing.JPanel {
 
         PusherOptions options = new PusherOptions();
         options.setCluster("us2");
-        pusher = new Pusher("6ba2a6129f4cf6d110a6", options);
+        pusher = new Pusher("", options);
         Channel channel = pusher.subscribe(UserSingleton.getInstance().getUserId());
 
         channel.bind("notification", new SubscriptionEventListener() {
