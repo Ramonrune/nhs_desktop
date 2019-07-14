@@ -1,6 +1,26 @@
 # NHS DESKTOP
 
 
+NFC HEALTH SYSTEM
+
+```
+Projeto de Conclusão de Curso apresentado
+como requisito parcial para obtenção do grau
+Tecnólogo em Análise e Desenvolvimento de
+Sistemas, pela Faculdade de Tecnologia de
+Americana.
+Time: 
+RAMON LACAVA GUTIERREZ GONÇALES
+LEONARDO MARTINS DE OLIVEIRA
+NATÁLIA AKINA UESUGI
+Orientador: Prof. Dr. Kleber de Oliveira Andrade
+Área de concentração: Engenharia de Software
+```
+```
+Americana, SP
+2018
+```
+
 Este trabalho se trata de uma plataforma de saúde digital unificada, que permite melhor gestão de informações de saúde e processos inteligentes. 
 A plataforma visa auxiliar o dia a dia das instituições de saúde e pacientes, buscando diminuir a quantidade de erros na área médica através de uma coleção consistente de dados do paciente, possibilitando que o sistema atue em qualquer instituição de saúde, e que tenha uma melhor eficiência e eficácia em atendimentos, sejam estes comuns ou de urgência e emergência.
 O trabalho foi realizado em colaboração com a universidade de Durban, na África do Sul. 
